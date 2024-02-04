@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Kryshna";
+  src: local("Kryshna"), url("./Kryshna.otf") format("OpenType");
+}
+
+.mainsec {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+.uc-title {
+  font-family: "Kryshna";
+  text-align: center;
+  font-size: 90px;
+  color: #d54145;
+}
+
+.logo1 {
+  width: 50%;
+  height: 50%;
+}
